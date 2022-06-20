@@ -1,0 +1,49 @@
+.cover{
+    width: 100vw;
+    height: 78.4vh;
+}
+
+.Main{
+    width: 300px;
+    height: 150px;
+    display: inline-block;
+    margin-left: 45%;
+    margin-top: 6%;
+}
+.Counts{
+    font-size: 80px;
+    margin-left: 40px;
+}
+
+.btns{
+    padding: 16px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: -30px;
+    cursor: pointer;
+    background: #7D2Ae8;
+    color: aliceblue;
+    border: none;
+
+
+}
+.btns2{
+    padding: 16px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+    background-color: rgb(235, 17, 17);
+    color: aliceblue;
+    border: none;
+
+}
+.btns:hover{
+    background: #631ebd;
+
+}
+.btns2:hover{
+    background-color: rgb(167, 15, 15);
+
+}

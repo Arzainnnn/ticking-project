@@ -1,0 +1,9 @@
+.ant-layout-footer{
+    background-color: #f2f2f2;
+    /* padding: 50px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+    color: #c70a0a;
+}
